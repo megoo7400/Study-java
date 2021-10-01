@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Operater1",
+            "request": "launch",
+            "mainClass": "first.Operater1",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operator",
+            "request": "launch",
+            "mainClass": "first.Operator",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Opertar",
+            "request": "launch",
+            "mainClass": "first.Opertar",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch TypeDemo",
             "request": "launch",
             "mainClass": "first.TypeDemo",
