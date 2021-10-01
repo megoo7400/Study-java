@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TypeDemo",
+            "request": "launch",
+            "mainClass": "first.TypeDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsciiDemo",
+            "request": "launch",
+            "mainClass": "first.AsciiDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch VariableDemo",
             "request": "launch",
             "mainClass": "first.VariableDemo",
