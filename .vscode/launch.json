@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RandomDemo",
+            "request": "launch",
+            "mainClass": "first.RandomDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForForDemo",
+            "request": "launch",
+            "mainClass": "first.ForForDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeadForDemo",
+            "request": "launch",
+            "mainClass": "first.DeadForDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DowhileDemo",
+            "request": "launch",
+            "mainClass": "first.DowhileDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileDemo",
+            "request": "launch",
+            "mainClass": "first.WhileDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForDemo",
+            "request": "launch",
+            "mainClass": "first.ForDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchDemo01",
+            "request": "launch",
+            "mainClass": "first.SwitchDemo01",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfDemo01",
+            "request": "launch",
+            "mainClass": "first.IfDemo01",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch Operater1",
             "request": "launch",
             "mainClass": "first.Operater1",
