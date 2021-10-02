@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayDemo",
+            "request": "launch",
+            "mainClass": "first.ArrayDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch RandomDemo",
             "request": "launch",
             "mainClass": "first.RandomDemo",
