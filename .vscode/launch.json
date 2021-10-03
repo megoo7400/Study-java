@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ShopCarTest",
+            "request": "launch",
+            "mainClass": "demo.ShopCarTest",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "first.Test",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoubleBall",
+            "request": "launch",
+            "mainClass": "first.DoubleBall",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintScore",
+            "request": "launch",
+            "mainClass": "first.PrintScore",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayFuzhi",
+            "request": "launch",
+            "mainClass": "first.ArrayFuzhi",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch YanCode",
+            "request": "launch",
+            "mainClass": "first.YanCode",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch UndiversNumber",
+            "request": "launch",
+            "mainClass": "first.UndiversNumber",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch Airplane",
             "request": "launch",
             "mainClass": "first.Airplane",
