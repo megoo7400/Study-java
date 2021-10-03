@@ -6,6 +6,35 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Airplane",
+            "request": "launch",
+            "mainClass": "first.Airplane",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "$(file)",
+            "projectName": "Study-java_d48b55f1",
+            "encoding": "GBK"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodArr1",
+            "request": "launch",
+            "mainClass": "first.MethodArr1",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MothodDemo",
+            "request": "launch",
+            "mainClass": "first.MothodDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayDemo",
             "request": "launch",
             "mainClass": "first.ArrayDemo",
