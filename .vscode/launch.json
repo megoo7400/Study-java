@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "demo.StringDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch ShopCarTest",
             "request": "launch",
             "mainClass": "demo.ShopCarTest",
