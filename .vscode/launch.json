@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayListSearch",
+            "request": "launch",
+            "mainClass": "demo.ArrayListSearch",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "demo.ArrayListDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrList",
+            "request": "launch",
+            "mainClass": "demo.ArrList",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch StringDemo",
             "request": "launch",
             "mainClass": "demo.StringDemo",
