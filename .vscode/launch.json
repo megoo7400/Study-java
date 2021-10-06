@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ATMSystem",
+            "request": "launch",
+            "mainClass": "atmpro.ATMSystem",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayListSearch",
             "request": "launch",
             "mainClass": "demo.ArrayListSearch",
