@@ -9,6 +9,13 @@
             "name": "Launch ATMSystem",
             "request": "launch",
             "mainClass": "atmpro.ATMSystem",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ATMSystem",
+            "request": "launch",
+            "mainClass": "atmpro.ATMSystem",
             "projectName": "Study-java_d48b55f1"
         },
         {

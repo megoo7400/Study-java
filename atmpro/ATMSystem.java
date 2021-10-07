@@ -35,8 +35,8 @@ public class ATMSystem {
 
         while(true){
             System.out.println("请输入您想要的操作: ");
-            System.out.println("1/ 登录");
-            System.out.println("2/ 开户");
+            System.out.println("1 - 登录");
+            System.out.println("2 - 开户");
             System.out.println("你可以输入命令了: ");
             int command = sc.nextInt();
             switch (command) {
@@ -160,13 +160,13 @@ public class ATMSystem {
         
         while(true){
             System.out.println("==========用户操作界面=============");
-            System.out.println("1/ 查询账户");
-            System.out.println("2/ 存款");
-            System.out.println("3/ 取款");
-            System.out.println("4/ 转账");
-            System.out.println("5/ 修改密码");
-            System.out.println("6/ 退出");
-            System.out.println("7/ 注销账户");
+            System.out.println("1 - 查询账户");
+            System.out.println("2 -  存款");
+            System.out.println("3 - 取款");
+            System.out.println("4 - 转账");
+            System.out.println("5 -  修改密码");
+            System.out.println("6 -  退出");
+            System.out.println("7 - 注销账户");
             System.out.println("请您输入命令: ");
             int command = sc.nextInt();
             switch (command) {
