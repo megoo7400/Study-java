@@ -32,6 +32,7 @@ public class ArrayListSearch {
                 System.out.println(student.getStudyId()+ "\t\t" + student.getName()
                 + "\t\t" + student.getAge() + "\t\t" + student.getClsaaName());
             }
+            sc.close();
        }       
 
     }
