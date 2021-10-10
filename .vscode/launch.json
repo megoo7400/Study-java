@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestArrayUtil",
+            "request": "launch",
+            "mainClass": "class_tst.TestArrayUtil",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch User",
+            "request": "launch",
+            "mainClass": "class_tst.User",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "class_tst.Demo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
             "name": "Launch SomeTest",
             "request": "launch",
             "mainClass": "demo.SomeTest",
