@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PorkTest",
+            "request": "launch",
+            "mainClass": "class_tst.PorkTest",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CodeTest",
+            "request": "launch",
+            "mainClass": "class_tst.CodeTest",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
             "name": "Launch TestArrayUtil",
             "request": "launch",
             "mainClass": "class_tst.TestArrayUtil",
