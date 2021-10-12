@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ab_test",
+            "request": "launch",
+            "mainClass": "atmpro.abstact_tst.Ab_test",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
             "name": "Launch PorkTest",
             "request": "launch",
             "mainClass": "class_tst.PorkTest",
