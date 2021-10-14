@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SystemDemo",
+            "request": "launch",
+            "mainClass": "api.SystemDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegeDemo",
+            "request": "launch",
+            "mainClass": "api.IntegeDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBuilerDemo",
+            "request": "launch",
+            "mainClass": "api.StringBuilerDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "api.Test",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "class_tst1.Test",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
             "name": "Launch Ab_test",
             "request": "launch",
             "mainClass": "atmpro.abstact_tst.Ab_test",
