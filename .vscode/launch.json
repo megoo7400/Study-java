@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RegexDemo",
+            "request": "launch",
+            "mainClass": "api.RegexDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarDemo",
+            "request": "launch",
+            "mainClass": "api.CalendarDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExDemo",
+            "request": "launch",
+            "mainClass": "api.ExDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateDemo",
+            "request": "launch",
+            "mainClass": "api.DateDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
             "name": "Launch SystemDemo",
             "request": "launch",
             "mainClass": "api.SystemDemo",
