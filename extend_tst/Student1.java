@@ -1,6 +1,6 @@
 package extend_tst;
 
-public class Student extends Role{
+public class Student1 extends Role{
     private String className;
     public void writeInfo(){
         System.out.println("lalalalla");

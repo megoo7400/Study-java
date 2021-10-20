@@ -1,5 +1,5 @@
 package class_tst;
 
-public class Student {
+public class Student3 {
     
 }

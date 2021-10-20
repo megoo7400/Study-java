@@ -1,15 +1,15 @@
 package demo;
 
-public class Student {
+public class Student2 {
     private String studyId;
     private String name;
     private int age;
     private String clsaaName;
 
-    public Student() {
+    public Student2() {
     }
 
-    public Student(String studyId, String name, int age, String clsaaName) {
+    public Student2(String studyId, String name, int age, String clsaaName) {
         this.studyId = studyId;
         this.name = name;
         this.age = age;

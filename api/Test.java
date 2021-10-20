@@ -3,7 +3,7 @@ package api;
 public class Test {
     public static void main(String[] args) {
         // toString
-        Student s = new Student("zhou",'男',18);
+        StudentArr s = new StudentArr("zhou",'男',18);
         System.out.println(s.toString());
         System.out.println(s);
         System.out.println("==============");
