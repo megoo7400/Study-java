@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ListDemo",
+            "request": "launch",
+            "mainClass": "datastruction.ListDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "demo.ArrayListDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionDemo",
+            "request": "launch",
+            "mainClass": "collection.CollectionDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LandamDemo",
+            "request": "launch",
+            "mainClass": "api.LandamDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
             "name": "Launch Paixu",
             "request": "launch",
             "mainClass": "api.Paixu",

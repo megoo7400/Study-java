@@ -37,5 +37,11 @@ public class ArrayListDemo {
             System.out.println(movie);
         }
 
+        for (Movie movie : movies) {
+            System.out.println(movie.getName());
+            System.out.println(movie.getActor());
+            System.out.println(movie.getScore());
+        }
+
     }
 }
