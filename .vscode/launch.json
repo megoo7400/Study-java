@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PokerDemo",
+            "request": "launch",
+            "mainClass": "collections.PokerDemo",
+            "projectName": "Study-java_66f83b70"
+        },
+        {
+            "type": "java",
+            "name": "Launch ApiDemo",
+            "request": "launch",
+            "mainClass": "collections.ApiDemo",
+            "projectName": "Study-java_66f83b70"
+        },
+        {
+            "type": "java",
             "name": "Launch MethodDemo",
             "request": "launch",
             "mainClass": "collenction_map.MethodDemo",
