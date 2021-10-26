@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SteamDemo",
+            "request": "launch",
+            "mainClass": "collection.SteamDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnDemo",
+            "request": "launch",
+            "mainClass": "collection.UnDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
             "name": "Launch MapDemo",
             "request": "launch",
             "mainClass": "mapdemo.MapDemo",
