@@ -56,7 +56,7 @@ public class SteamDemo {
         
         Stream<Employee> s2 = two.stream();
         Stream<Employee> s3 = Stream.concat(s1, s2);
-        System.out.println( s3.toList());
+    
         // 看看S3流中是否是 两个部门的 员工对象,打印看看.
         // s3.forEach(System.out::println);----->>>>>>> 会报 IllegalStateException 错误,,,,??????--- 未解决
 
