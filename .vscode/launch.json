@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch SteamDemo",
             "request": "launch",
+            "mainClass": "example_collcetion.SteamDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SteamDemo",
+            "request": "launch",
             "mainClass": "collection.SteamDemo",
             "projectName": "Study-java_d73ee96e"
         },
