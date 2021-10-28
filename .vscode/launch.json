@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StreamStudy",
+            "request": "launch",
+            "mainClass": "example_collcetion.StreamStudy",
+            "projectName": "Study-java_66f83b70"
+        },
+        {
+            "type": "java",
             "name": "Launch SteamDemo",
             "request": "launch",
             "mainClass": "example_collcetion.SteamDemo",
