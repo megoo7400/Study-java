@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "logbacklearn/lib/logback-access-1.2.6.jar",
+        "logbacklearn/lib/logback-classic-1.2.6.jar",
+        "logbacklearn/lib/logback-core-1.2.6.jar"
+    ]
+}

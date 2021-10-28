@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BianyiException",
+            "request": "launch",
+            "mainClass": "exception.BianyiException",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
             "name": "Launch StreamStudy",
             "request": "launch",
             "mainClass": "example_collcetion.StreamStudy",
