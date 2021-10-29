@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "javabaselearn/lib/logback-access-1.2.6.jar",
+        "javabaselearn/lib/logback-classic-1.2.6.jar",
+        "javabaselearn/lib/logback-core-1.2.6.jar",
+        "d:\\study\\slf4j-api-1.7.9.jar"
+    ],
+    "java.project.sourcePaths": [
+        "javabaselearn/src/base_study",
+        "javabaselearn/src/logbackdemo"
+    ]
+}
