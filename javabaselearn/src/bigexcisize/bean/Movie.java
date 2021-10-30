@@ -22,11 +22,13 @@ public class Movie {
     public Movie(String name, String actor,  double time, int lefNum, double price, Date startTime) {
         this.name = name;
         this.actor = actor;
-        
         this.time = time;
         this.lefNum = lefNum;
         this.price = price;
         this.startTime = startTime;
+    }
+
+    public Movie(String string, String string2, double d, int i, double e, String string3) {
     }
 
     public String getName() {
