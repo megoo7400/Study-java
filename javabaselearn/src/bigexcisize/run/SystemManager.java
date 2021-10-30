@@ -106,6 +106,8 @@ public class SystemManager {
         // 商家与客户公用一个登录功能
         // 判断用户,根据用户类型 分别进入不同页面
         showMain();
+
+        
     }
 
     private static void showMain() {

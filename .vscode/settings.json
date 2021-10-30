@@ -10,6 +10,7 @@
     "java.project.sourcePaths": [
         "javabaselearn/src/base_study",
         "javabaselearn/src/logbackdemo",
-        "javabaselearn/src/bigexcisize"
+        "javabaselearn/src/bigexcisize",
+        "javabaselearn/src/filedemo"
     ]
 }
