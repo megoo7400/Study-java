@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Study-java.iml" filepath="$PROJECT_DIR$/Study-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/megoo.www/megoo.www.iml" filepath="$PROJECT_DIR$/megoo.www/megoo.www.iml" />
     </modules>
   </component>
 </project>

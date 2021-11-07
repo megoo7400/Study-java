@@ -1,0 +1,519 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BianyiException",
+            "request": "launch",
+            "mainClass": "exception.BianyiException",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamStudy",
+            "request": "launch",
+            "mainClass": "example_collcetion.StreamStudy",
+            "projectName": "Study-java_66f83b70"
+        },
+        {
+            "type": "java",
+            "name": "Launch SteamDemo",
+            "request": "launch",
+            "mainClass": "example_collcetion.SteamDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SteamDemo",
+            "request": "launch",
+            "mainClass": "collection.SteamDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnDemo",
+            "request": "launch",
+            "mainClass": "collection.UnDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapDemo",
+            "request": "launch",
+            "mainClass": "mapdemo.MapDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PokerDemo",
+            "request": "launch",
+            "mainClass": "collections.PokerDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PokerDemo",
+            "request": "launch",
+            "mainClass": "collections.PokerDemo",
+            "projectName": "Study-java_66f83b70"
+        },
+        {
+            "type": "java",
+            "name": "Launch ApiDemo",
+            "request": "launch",
+            "mainClass": "collections.ApiDemo",
+            "projectName": "Study-java_66f83b70"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodDemo",
+            "request": "launch",
+            "mainClass": "collenction_map.MethodDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetDome",
+            "request": "launch",
+            "mainClass": "collenction_map.SetDome",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetDemo2",
+            "request": "launch",
+            "mainClass": "collenction_map.SetDemo2",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetDemo",
+            "request": "launch",
+            "mainClass": "collenction_map.SetDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListDemo",
+            "request": "launch",
+            "mainClass": "datastruction.ListDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "demo.ArrayListDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionDemo",
+            "request": "launch",
+            "mainClass": "collection.CollectionDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LandamDemo",
+            "request": "launch",
+            "mainClass": "api.LandamDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Paixu",
+            "request": "launch",
+            "mainClass": "api.Paixu",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo",
+            "request": "launch",
+            "mainClass": "api.ArrayDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegexDemo",
+            "request": "launch",
+            "mainClass": "api.RegexDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarDemo",
+            "request": "launch",
+            "mainClass": "api.CalendarDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExDemo",
+            "request": "launch",
+            "mainClass": "api.ExDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateDemo",
+            "request": "launch",
+            "mainClass": "api.DateDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SystemDemo",
+            "request": "launch",
+            "mainClass": "api.SystemDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegeDemo",
+            "request": "launch",
+            "mainClass": "api.IntegeDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBuilerDemo",
+            "request": "launch",
+            "mainClass": "api.StringBuilerDemo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "api.Test",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "class_tst1.Test",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ab_test",
+            "request": "launch",
+            "mainClass": "atmpro.abstact_tst.Ab_test",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PorkTest",
+            "request": "launch",
+            "mainClass": "class_tst.PorkTest",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CodeTest",
+            "request": "launch",
+            "mainClass": "class_tst.CodeTest",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestArrayUtil",
+            "request": "launch",
+            "mainClass": "class_tst.TestArrayUtil",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch User",
+            "request": "launch",
+            "mainClass": "class_tst.User",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "class_tst.Demo",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomeTest",
+            "request": "launch",
+            "mainClass": "demo.SomeTest",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListSearch",
+            "request": "launch",
+            "mainClass": "demo.ArrayListSearch",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ATMSystem",
+            "request": "launch",
+            "mainClass": "atmpro.ATMSystem",
+            "projectName": "Study-java_d73ee96e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ATMSystem",
+            "request": "launch",
+            "mainClass": "atmpro.ATMSystem",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListSearch",
+            "request": "launch",
+            "mainClass": "demo.ArrayListSearch",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "demo.ArrayListDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrList",
+            "request": "launch",
+            "mainClass": "demo.ArrList",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "demo.StringDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShopCarTest",
+            "request": "launch",
+            "mainClass": "demo.ShopCarTest",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "first.Test",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoubleBall",
+            "request": "launch",
+            "mainClass": "first.DoubleBall",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintScore",
+            "request": "launch",
+            "mainClass": "first.PrintScore",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayFuzhi",
+            "request": "launch",
+            "mainClass": "first.ArrayFuzhi",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch YanCode",
+            "request": "launch",
+            "mainClass": "first.YanCode",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch UndiversNumber",
+            "request": "launch",
+            "mainClass": "first.UndiversNumber",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Airplane",
+            "request": "launch",
+            "mainClass": "first.Airplane",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "$(file)",
+            "projectName": "Study-java_d48b55f1",
+            "encoding": "GBK"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodArr1",
+            "request": "launch",
+            "mainClass": "first.MethodArr1",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MothodDemo",
+            "request": "launch",
+            "mainClass": "first.MothodDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo",
+            "request": "launch",
+            "mainClass": "first.ArrayDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomDemo",
+            "request": "launch",
+            "mainClass": "first.RandomDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForForDemo",
+            "request": "launch",
+            "mainClass": "first.ForForDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeadForDemo",
+            "request": "launch",
+            "mainClass": "first.DeadForDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DowhileDemo",
+            "request": "launch",
+            "mainClass": "first.DowhileDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileDemo",
+            "request": "launch",
+            "mainClass": "first.WhileDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForDemo",
+            "request": "launch",
+            "mainClass": "first.ForDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchDemo01",
+            "request": "launch",
+            "mainClass": "first.SwitchDemo01",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfDemo01",
+            "request": "launch",
+            "mainClass": "first.IfDemo01",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operater1",
+            "request": "launch",
+            "mainClass": "first.Operater1",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operator",
+            "request": "launch",
+            "mainClass": "first.Operator",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Opertar",
+            "request": "launch",
+            "mainClass": "first.Opertar",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeDemo",
+            "request": "launch",
+            "mainClass": "first.TypeDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsciiDemo",
+            "request": "launch",
+            "mainClass": "first.AsciiDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableDemo",
+            "request": "launch",
+            "mainClass": "first.VariableDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstantDemo",
+            "request": "launch",
+            "mainClass": "ConstantDemo",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "first.Hello",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "first.hello",
+            "projectName": "Study-java_d48b55f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "app.hello",
+            "projectName": "Study-java_d48b55f1"
+        }
+    ]
+}

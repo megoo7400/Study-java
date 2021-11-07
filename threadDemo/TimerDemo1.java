@@ -15,6 +15,8 @@ public class TimerDemo1 {
             }
         }, 0, 2, TimeUnit.SECONDS);
 
+        // Thread.State;
+
         pool.scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {

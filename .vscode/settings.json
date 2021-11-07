@@ -13,6 +13,7 @@
         "javabaselearn/src/logbackdemo",
         "javabaselearn/src/bigexcisize",
         "javabaselearn/src/filedemo",
-        "threadDemo"
+        "threadDemo",
+        "javabaselearn/src/tcpudp"
     ]
 }
