@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE user [
+        <!ELEMENT user (business|customer|movies)*>
+        <!ELEMENT business (#PCDATA)>
+        <!ELEMENT customer (#PCDATA)>
+        <!ELEMENT movies (movie)*>
+        <!ELEMENT movie (name|actor|score|time|lefnum|price|startime)*>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT actor (#PCDATA)>
+        <!ELEMENT score (#PCDATA)>
+        <!ELEMENT time (#PCDATA)>
+        <!ELEMENT lefnum (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT startime (#PCDATA)>
+        ]>
+<user>
+
+    <business>
+
+    </business>
+
+    <business>
+
+    </business>
+
+    <customer>
+
+    </customer>
+
+    <customer>
+
+    </customer>
+
+    <movies>
+<!--private String name;
+    private String actor;
+    private double score;
+    private double time;
+    private int lefNum;
+    private double price;
+    private Date startTime;-->
+        <movie>
+<!--    Movie bMovie = new Movie("少林寺","刘德华",120.5,50,55.5,"2021/12/12 11:30");
+        Movie bMovie1 = new Movie("战狼","吴京",120.5,50,55.5,"2021/12/12 11:30");
+        Movie bMovie2 = new Movie("霸王别姬","张国荣",120.5,50,55.5,"2021/12/12 11:30");-->
+            <name>少林寺</name>
+            <actor>刘德华</actor>
+            <score> 0 </score>
+            <time>120</time>
+            <lefnum>50</lefnum>
+            <price>55.5</price>
+            <startime>2021-12-12 11:30</startime>
+        </movie>
+
+        <movie>
+
+        </movie>
+
+        <movie>
+
+        </movie>
+
+    </movies>
+
+</user>
