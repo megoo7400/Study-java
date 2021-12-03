@@ -14,6 +14,8 @@
         "javabaselearn/src/bigexcisize",
         "javabaselearn/src/filedemo",
         "threadDemo",
-        "javabaselearn/src/tcpudp"
-    ]
+        "javabaselearn/src/tcpudp",
+        "javabaselearn\\src\\reflectDemo"
+    ],
+    "git.ignoreLimitWarning": true
 }
