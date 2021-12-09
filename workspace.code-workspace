@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tomcatDemo"
+		},
+		{
+			"path": "../brand-demo"
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"javabaselearn/lib/logback-access-1.2.6.jar",
+			"javabaselearn/lib/logback-classic-1.2.6.jar",
+			"javabaselearn/lib/logback-core-1.2.6.jar",
+			"d:\\study\\slf4j-api-1.7.9.jar",
+			"javabaselearn/lib/slf4j-api-1.7.9.jar",
+			"/Users/a1/Java_dll/commons-io-2.11.0/commons-io-2.11.0.jar"
+		],
+		"java.project.sourcePaths": [
+			"javabaselearn/src/base_study",
+			"javabaselearn/src/logbackdemo",
+			"javabaselearn/src/bigexcisize",
+			"javabaselearn/src/filedemo",
+			"threadDemo",
+			"javabaselearn/src/tcpudp",
+			"javabaselearn\\src\\reflectDemo"
+		],
+		"git.ignoreLimitWarning": true,
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
