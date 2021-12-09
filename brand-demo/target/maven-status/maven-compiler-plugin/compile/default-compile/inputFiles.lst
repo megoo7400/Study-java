@@ -1,0 +1,9 @@
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/pojo/Brand.java
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/web/AddServlet.java
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/service/BrandService.java
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/web/DeleteByIdServlet.java
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/web/UpdateServlet.java
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/utils/SqlSessionFactoryUtils.java
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/web/SelectAllServlet.java
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/web/SelectByIdServlet.java
+/Users/a1/java-study/brand-demo/src/main/java/com/megoo/mapper/BrandMapper.java

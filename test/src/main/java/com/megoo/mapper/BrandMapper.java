@@ -25,4 +25,6 @@ public interface BrandMapper {
     void deleteById(int id);
 
     void deleteByIds(int[] ids);
+
+
 }

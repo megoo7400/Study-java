@@ -2,12 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../tomcatDemo"
-		},
-		{
-			"path": "../brand-demo"
 		}
 	],
 	"settings": {
@@ -20,15 +14,7 @@
 			"javabaselearn/lib/slf4j-api-1.7.9.jar",
 			"/Users/a1/Java_dll/commons-io-2.11.0/commons-io-2.11.0.jar"
 		],
-		"java.project.sourcePaths": [
-			"javabaselearn/src/base_study",
-			"javabaselearn/src/logbackdemo",
-			"javabaselearn/src/bigexcisize",
-			"javabaselearn/src/filedemo",
-			"threadDemo",
-			"javabaselearn/src/tcpudp",
-			"javabaselearn\\src\\reflectDemo"
-		],
+		"java.project.sourcePaths": [],
 		"git.ignoreLimitWarning": true,
 		"java.configuration.updateBuildConfiguration": "automatic"
 	}

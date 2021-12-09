@@ -1,0 +1,9 @@
+com/megoo/web/SelectByIdServlet.class
+com/megoo/web/AddServlet.class
+com/megoo/service/BrandService.class
+com/megoo/mapper/BrandMapper.class
+com/megoo/pojo/Brand.class
+com/megoo/web/UpdateServlet.class
+com/megoo/utils/SqlSessionFactoryUtils.class
+com/megoo/web/SelectAllServlet.class
+com/megoo/web/DeleteByIdServlet.class
